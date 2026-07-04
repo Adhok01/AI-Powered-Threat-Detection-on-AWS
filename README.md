@@ -1,4 +1,4 @@
-# AI-Powered-Threat-Detection-on-AWS
+<img width="1536" height="821" alt="Screenshot 2026-07-04 at 11 29 35 PM" src="https://github.com/user-attachments/assets/e97ecbe6-50af-47c8-9e3f-90c800000b72" />
 
 
 ## CloudTrails Setup
@@ -16,6 +16,11 @@
    - Click "Create the trail" to finalize setup
 
 ---
+## System Design : Architecture
+
+
+
+
 
 ## GuardDuty Setup
 
